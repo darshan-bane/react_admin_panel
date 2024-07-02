@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react_admin_panel/static/css/main.f1a4b407.css",
-    "main.js": "/react_admin_panel/static/js/main.67664c3b.js",
-    "static/js/453.b3b29214.chunk.js": "/react_admin_panel/static/js/453.b3b29214.chunk.js",
-    "index.html": "/react_admin_panel/index.html",
-    "main.f1a4b407.css.map": "/react_admin_panel/static/css/main.f1a4b407.css.map",
-    "main.67664c3b.js.map": "/react_admin_panel/static/js/main.67664c3b.js.map",
-    "453.b3b29214.chunk.js.map": "/react_admin_panel/static/js/453.b3b29214.chunk.js.map"
+    "main.css": "/react_admin_panel/dashboard/static/css/main.f1a4b407.css",
+    "main.js": "/react_admin_panel/dashboard/static/js/main.78a57304.js",
+    "static/js/453.b3b29214.chunk.js": "/react_admin_panel/dashboard/static/js/453.b3b29214.chunk.js",
+    "index.html": "/react_admin_panel/dashboard/index.html",
+    "main.f1a4b407.css.map": "/react_admin_panel/dashboard/static/css/main.f1a4b407.css.map",
+    "main.78a57304.js.map": "/react_admin_panel/dashboard/static/js/main.78a57304.js.map",
+    "453.b3b29214.chunk.js.map": "/react_admin_panel/dashboard/static/js/453.b3b29214.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f1a4b407.css",
-    "static/js/main.67664c3b.js"
+    "static/js/main.78a57304.js"
   ]
 }
