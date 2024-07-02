@@ -1,0 +1,14 @@
+[
+    {
+        "lable":"Ads",
+        "value":150
+    },
+    {
+        "lable":"Subscription",
+        "value":300
+    },
+    {
+        "lable":"Sponsorship",
+        "value":200
+    }
+]
